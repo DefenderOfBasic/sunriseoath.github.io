@@ -1,13 +1,15 @@
 # About
 
+Welcome to my blog and static webpage. Enjoy your stay.
+
 I am a…
 - Christian
 - thinker & writer
 - piano teacher & musicianship coach
 
 This website is for…
-- blog posts
-- static content
-- experimentation
+- plaintext archival
+- artistic experimentation
+- stream of consciousness updates
 
 For a portal to the rest of my web presence, see my [Carrd](https://sunriseoath.carrd.co).
