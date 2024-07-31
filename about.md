@@ -12,6 +12,6 @@ This website is for…
 - artistic experimentation
 - stream of consciousness updates
 
-My email is [gale.jones.sunriseoath@gmail.com](mailto:gale.jones.sunriseoath@gmail.com).
+My email is [gale.jones.sunriseoath@gmail.com](gale.jones.sunriseoath@gmail.com).
 
 For a portal to the rest of my web presence, see my [Carrd](https://sunriseoath.carrd.co).
