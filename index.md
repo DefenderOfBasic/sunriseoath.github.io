@@ -1,3 +1,3 @@
-# Beautiful stories. Perfect lies.
+# Blog
 
-Welcome to my static webpage. Enjoy your stay.
+Welcome to my blog and static webpage. Enjoy your stay.
