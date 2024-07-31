@@ -1,4 +1,6 @@
-# Moving Day | A Fresh Start
+# Moving Day
+
+*Or, **A Fresh Start***
 
 My wife and I are moving today. As I write this, the last load of laundry is waiting to be moved over to the dryer. I am waiting for the piano movers. 
 The love of my dreams is working her last day at a music summer camp. This afternoon, I will drive us an hour and a half to our new life back in my hometown.
