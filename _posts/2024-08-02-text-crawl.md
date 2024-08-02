@@ -2,7 +2,7 @@
 
 Every few months, I get ideas related to sprawling text adventures. 
 In these situations, I am tempted to make another Ren’Py project, 
-or try my hand at Twine, or maybe get into Inkscape.
+or try my hand at Twine, or maybe get into ~~Inkscape~~ Inky ([link](https://www.inklestudios.com/ink/web-tutorial)).
 
 But in the end, I always realize I just want an excuse to connect writings together.
 This desire is simple, yet unintuitive to articulate. 
@@ -16,7 +16,7 @@ I think of how in the future, AI will help make all the connections for us.
 This is already what search engine and social media algorithms do, after all! 
 We no longer have to be responsible for our own architecture.
 But this makes us prone to being trapped in the rooms that others build for us.
-The emerging project of the so-called _small web_ ([link to an article by Ben Hoyt]([https://benhoyt.com/writings/the-small-web-is-beautiful/))
+The emerging project of the so-called _small web_ ([link to an article by Ben Hoyt](https://benhoyt.com/writings/the-small-web-is-beautiful/))
 is to take ownership of our individual abilities to fit things together using our own longform structures.
 
 My wife and I are now in a new city, and will be building up a new piano studio from scratch.
