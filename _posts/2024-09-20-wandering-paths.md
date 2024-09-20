@@ -1,5 +1,3 @@
-# September 20, 2024
-
 *Reflections on Identity, Faith, and the Infinite Map*
 
 I realized that I could probably start organizing my daily notes a lot more and using them explicitly as indexes for ideas. If I want to start breaking things out into their own notes, that is my prerogative. But I will still use these spaces as interesting source documents in and of themselves. (https://drive.google.com/file/d/1-0cO0bIb_5sWtD4Aq5jyev3LybsL6tsg) |> [[2024-09-20-161728-]]
