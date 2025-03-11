@@ -28,6 +28,7 @@ I will also link some topical writings and creative works that show some of the 
 
 - Fictional writing
 	- [“Epistemology 1999” (short story written before conversion)](https://sunriseoath.blogspot.com/2024/03/epistemology-1999.html)
+		- This serves as a personal index of many concepts that I think and write about, as well as a record of many meaningful formative life events. Treat this as an exercise for the reader.
 - Visual novels (Studio Madeleine Chai)
 	- [*Snapshot*](https://sunriseoath.itch.io/snapshot) — paradigms; magic and science; past and future
 	- [*Splinted Wings*](https://sunriseoath.itch.io/splinted-wings) — compensating with superpowers?
